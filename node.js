@@ -16,3 +16,7 @@ app.listen(port,()=>{
 //リモートの main​ ブランチにプッシュされるようにします。
 
 // git push heroku testbranch:main
+
+// $ git add .
+// $ git commit -am "make it better"
+// $ git push heroku master これでプッシュできた
